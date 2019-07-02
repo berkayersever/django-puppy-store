@@ -4,6 +4,14 @@
 
 In the project directory, you can run:
 
+### `env\Scripts\activate`
+
+Activate script for the Virtualenv.<br>
+
+### `deactivate`
+
+Deactivate script for the Virtualenv.<br>
+
 ### `python puppy_store\manage.py test`
 
 Launches the test runner in the interactive watch mode.<br>
